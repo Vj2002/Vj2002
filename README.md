@@ -24,7 +24,7 @@ I focus on building scalable web applications, handling complex state, and impro
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vj2002&theme=radical" height="150" width="100%">
 </p>
 
