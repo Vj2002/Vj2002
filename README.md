@@ -18,16 +18,13 @@ I focus on building scalable web applications, handling complex state, and impro
 - React Js, TypeScript, JavaScript , Next Js
 - Redux, Redux Toolkit, Redux Saga  
 - Tailwind CSS, HTML, CSS  
-- REST APIs, Performance Optimization  
+- REST APIs, Performance Optimization
 
----
-
+<!-- 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vj2002&theme=radical" height="150" width="100%" />
-</p>
-
+</p> -->
 ---
 
 ## 📫 Connect
