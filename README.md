@@ -35,3 +35,13 @@ I focus on building scalable web applications, handling complex state, and impro
 - Email: vaibhav.jain20122002@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/vaibhav-jain-2b34ab202/
 - Portfolio: https://portfolio-omega-opal-uckvziwshq.vercel.app/
+
+
+``` react js
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+//
+```
