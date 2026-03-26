@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 I'm a frontend engineer working with React, TypeScript, and Redux.  
-I focus on building scalable applications, handling complex state, and improving performance where it actually matters.
+I focus on building scalable web applications, handling complex state, and improving performance where it actually matters.
 
 ---
 
@@ -19,14 +19,6 @@ I focus on building scalable applications, handling complex state, and improving
 - Redux, Redux Toolkit, Redux Saga  
 - Tailwind CSS, HTML, CSS  
 - REST APIs, Performance Optimization  
-
----
-
-## 📈 Highlights
-
-- Optimized API performance from **300ms → 30ms**  
-- Worked on large-scale frontend systems with complex data flow  
-- Solved **900+ DSA problems**
 
 ---
 
@@ -42,4 +34,4 @@ I focus on building scalable applications, handling complex state, and improving
 ## 📫 Connect
 
 - Email: vaibhav.jain20122002@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/vaibhav-jain-2b34ab202/
