@@ -1,5 +1,3 @@
-<div style="padding:5px">
-
 # 👋 Hi, I'm Vaibhav Jain
 
 <p align="center">
@@ -44,5 +42,3 @@ if (codeWorking){
             }
         }
 ```
-
-</div>
